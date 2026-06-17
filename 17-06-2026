@@ -27,3 +27,16 @@ int step;
 step = d/s
 if(d%s==0) count<<step;
 else count<<step;
+.
+.
+.
+.
+.
+# include <iostream>
+int main ()
+{
+cin >> num ;
+if (num % 3 == 0 )
+cout <<" B win  ";
+else  cout<<"A WIN" ;
+}
